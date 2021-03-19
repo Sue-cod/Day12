@@ -35,3 +35,4 @@ var collection = {
   console.log(updateRecords(collection, 5439, 'artist', 'ABBA'));
   console.log(updateRecords(collection, 5439, 'tracks', 'Take a Chance on Me'));
   console.log(updateRecords(collection, 2548, 'artist', '')); // Change this line
+  module.exports = updateRecords;

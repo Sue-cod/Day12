@@ -8,5 +8,5 @@ function myCounter(n) {
     }
   }
   // Only change code above this line
-  console.log(myCounter(-1), myCounter(15), myCounter(5)); // Change this line
+  console.log(myCounter(-1), myCounter(10), myCounter(5)); // Change this line
   module.exports = myCounter;
